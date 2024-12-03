@@ -96,7 +96,7 @@ The CSV file includes three sections:
 
 To adjust the threshold for detecting suspicious activity, modify the constant in the script:  
 ```python
-FAILED_LOGIN_THRESHOLD = 10
+FAILED_LOGIN_THRESHOLD = 5
 ```
 
 ---
